@@ -1,0 +1,4 @@
+- 👋 Hola, soy @tatianap69
+- 👀 Estoy interesada en la programación web
+- 🌱 Estoy estudiando ingeniería en sistemas y cuento con experiencia de +1 año en desarrollo web 
+- 🎮 Estoy interesada en el mundo de los videojuegos 
